@@ -1,6 +1,7 @@
 # multi_quiz
 
-![Uploading image_quiz.png…]()
+
+![image_quiz](https://github.com/ahmedjarad0/multi_quiz_app/assets/113943692/6b546d8c-e9fe-48bb-9f14-4d237675cc46)
 
 
 
